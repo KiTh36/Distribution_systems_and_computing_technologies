@@ -35,7 +35,7 @@
 
 ## Додатково: Графік кривих 
 <small>(зображення було створено за допомогою matplotlib у Google Colab)<small>
-Grafik.png
+[Grafik.png](https://github.com/KiTh36/Distribution_systems_and_computing_technologies/blob/main/praktyka/03-potoky/Grafik.png)
 
 
 
