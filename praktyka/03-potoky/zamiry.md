@@ -33,6 +33,9 @@
 
 `max = os.cpu_count() = 4`.
 
+## Додатково: Графік кривих 
+<small>(зображення було створено за допомогою matplotlib у Google Colab)<small>
+Grafik.png
 
 
 
